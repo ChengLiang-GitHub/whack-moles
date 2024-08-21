@@ -31,3 +31,4 @@ D:\git_repository\whack-moles\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFo
 D:\git_repository\whack-moles\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
 D:\git_repository\whack-moles\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
 D:\git_repository\whack-moles\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\git_repository\whack-moles\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.startForm.resources
